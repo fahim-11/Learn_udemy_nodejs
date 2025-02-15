@@ -18,7 +18,7 @@ const url = require('url')
 // })
 
 
-/// server 
+/// server side
 // const server = http.createServer((req,res) =>{
 //     const pathName = req.url;
 
